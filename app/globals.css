@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Estilos base */
+:root {
+  color-scheme: dark;
+}
+html, body, #__next {
+  height: 100%;
+}
+body {
+  background: #0a0f1a;
+  color: #e6edf3;
+}
